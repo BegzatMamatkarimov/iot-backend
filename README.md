@@ -1,4 +1,4 @@
-# IoT Backend Platform (Spring Boot)
+# IoT Backend Platform 
 
 ## Описание
 
